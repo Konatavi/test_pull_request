@@ -42,7 +42,7 @@ namespace Lesson1
 
         public static void func_a()
         {
-
+            int n = 1;
         }
 
         public static void some_new_feature_func_a()
